@@ -25,12 +25,13 @@ REMOTE WORK | REACT | SQL | PAIR PROGRAMMING
 
 😄 Pronouns...He/Him/His
 
-⚡️ Fun fact... I listen to chill hiphop radio when i am coding https://www.youtube.com/watch?v=5yx6BWlEVcY
+⚡️ Fun fact... I listen to chill hiphop radio when i am coding. You can sample my playlist [Here](https://open.spotify.com/playlist/6WmNQqd3wECAhsjryXZ2eT?si=d2b504e462244897)
 
 
 ## 🔗 Links
 
-[linkedin](https://www.linkedin.com/in/isiteketo-mutau-736894241/)
-[twitter](https://twitter.com/muttau)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/]https://www.linkedin.com/in/isiteketo-mutau-736894241/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
 
 
