@@ -25,7 +25,7 @@ REMOTE WORK | REACT | SQL | PAIR PROGRAMMING
 
 😄 Pronouns...He/Him/His
 
-⚡️ Fun fact... I listen to chill hiphop radio when i am coding. You can sample my playlist [Here](https://open.spotify.com/playlist/6WmNQqd3wECAhsjryXZ2eT?si=d2b504e462244897)
+⚡️ Fun fact... I listen to chillhop Radio when i am coding or Studying. You can sample my playlist [Here](https://open.spotify.com/playlist/6WmNQqd3wECAhsjryXZ2eT?si=d2b504e462244897)
 
 
 ## 🔗 Links
