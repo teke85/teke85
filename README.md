@@ -30,8 +30,8 @@ REMOTE WORK | REACT | SQL | PAIR PROGRAMMING
 
 ## 🔗 Links
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) [LinkedIn](https://www.linkedin.com/in/isiteketo-mutau-736894241/)
+![Linkedin](https://i.stack.imgur.com/gVE0j.png) [LinkedIn](https://www.linkedin.com/in/isiteketo-mutau-736894241/)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) [GitHub](https://github.com/teke85)
+![GitHub](https://i.stack.imgur.com/tskMh.png) [GitHub](https://github.com/teke85)
 
 
