@@ -17,33 +17,6 @@ REMOTE WORK | PAIR PROGRAMMING | COLLABORATIVE WORK
 
 **Databases** SQL | MongoDB |
 
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
-
 👩‍💻 I'm currently working on an automotive website similar to Autotrader UK! Collaborators are Welcome.
 
 🧠 I'm currently enrolled in the MICROVERSE PROGRAM.
@@ -59,7 +32,6 @@ Start the server
 😄 Pronouns...He/Him/His
 
 ⚡️ Fun fact... I listen to chillhop Radio when i am coding or Studying. You can sample my playlist [Here](https://open.spotify.com/playlist/6WmNQqd3wECAhsjryXZ2eT?si=d2b504e462244897)
-
 
 ## 🔗 Links
 
