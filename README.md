@@ -30,7 +30,7 @@ REMOTE WORK | REACT | SQL | PAIR PROGRAMMING
 
 ## 🔗 Links
 
-[![linkedin](https://www.linkedin.com/in/isiteketo-mutau-736894241/))
-[![twitter](https://twitter.com/muttau)
+[linkedin](https://www.linkedin.com/in/isiteketo-mutau-736894241/)
+[twitter](https://twitter.com/muttau)
 
 
