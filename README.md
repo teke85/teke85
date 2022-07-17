@@ -7,13 +7,46 @@ I'm a frontend developer...
 
 
 ## 🛠 Skills
-HTML | CSS | SASS/SCSS | BOOTSTRAP 5 | JAVASCRIPT | PYTHON/DJANGO | 
-REMOTE WORK | REACT | SQL | PAIR PROGRAMMING
+REMOTE WORK | PAIR PROGRAMMING | COLLABORATIVE WORK
 
-## Other Common Github Profile Sections
+## Tech Stack
+
+**Client:** HTML 5, CSS3, JavaScript, React, Redux, TailwindCSS, SASS/SCSS, BootStrap 5, CSS Grid
+
+**Server:** Node, Express, Django, Python
+
+**Databases** SQL | MongoDB |
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
 👩‍💻 I'm currently working on an automotive website similar to Autotrader UK! Collaborators are Welcome.
 
-🧠 I'm currently learning Ruby
+🧠 I'm currently enrolled in the MICROVERSE PROGRAM.
 
 👯‍♀️ I'm looking to collaborate on building Bootstrap 5 Templates.
 
@@ -33,5 +66,8 @@ REMOTE WORK | REACT | SQL | PAIR PROGRAMMING
 ![Linkedin](https://i.stack.imgur.com/gVE0j.png) [LinkedIn](https://www.linkedin.com/in/isiteketo-mutau-736894241/)
 &nbsp;
 ![GitHub](https://i.stack.imgur.com/tskMh.png) [GitHub](https://github.com/teke85)
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+
 
 
