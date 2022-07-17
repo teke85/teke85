@@ -17,7 +17,7 @@ REMOTE WORK | REACT | SQL | PAIR PROGRAMMING
 
 👯‍♀️ I'm looking to collaborate on building Bootstrap 5 Templates.
 
-🤔 I'm looking for help in finding Freelance Jobs
+🤔 Interested in Freelance Jobs
 
 💬 Ask me about Javascript/Django/Bootstrap 5
 
