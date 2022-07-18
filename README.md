@@ -1,9 +1,9 @@
 # Aloha!! I'm Teke Mutau! 👋
 
-
 I am based in Lusaka Zambia.
+
 ## 🚀 About Me
-I'm a frontend developer...
+I'm a frontend developer. In my free time, I enjoy making non-profit websites and projects.
 
 
 ## 🛠 Skills
