@@ -19,7 +19,7 @@ REMOTE WORK | PAIR PROGRAMMING | COLLABORATIVE WORK | PROFESSIONAL CODE REVIEWIN
 
 👩‍💻 I'm currently working on an automotive website similar to Autotrader UK! Collaborators are Welcome.
 
-🧠 I'm currently enrolled in the MICROVERSE PROGRAM.
+🧠 I'm currently enrolled in the [MICROVERSE PROGRAM](https://www.microverse.org/).
 
 👯‍♀️ I'm looking to collaborate on building Bootstrap 5 Templates.
 
