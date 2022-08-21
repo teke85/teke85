@@ -7,7 +7,7 @@ I'm a frontend developer. I enjoy making non-profit websites and projects for pe
 
 
 ## 🛠 Skills
-REMOTE WORK | PAIR PROGRAMMING | COLLABORATIVE WORK | PROFESSIONAL CODE REVIEWING
+REMOTE WORK | PAIR PROGRAMMING | COLLABORATIVE WORK | TEMPLATE DEVELOPMENT
 
 ## Tech Stack
 
