@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/29442846/195192850-03c5e6e2-9bb3-40e4-a34b-ee5d71fe55af.gif" alt="giphy"" alt="giphy"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/29442846/195194741-66ad0316-c2a1-48fc-af0c-198c0dad069b.gif" alt="giphy"" alt="giphy"/></p>
 <h1 align="center">Hi 👋, I'm Teke!!</h1>
 <h3 align="center">I am a front-end remote web developer who combines the art of design with the art of programming by translating UI/UX design wireframes to code.</h3>
 
