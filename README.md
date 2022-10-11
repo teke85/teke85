@@ -1,7 +1,8 @@
+<p align="center"><img src="https://user-images.githubusercontent.com/29442846/195192850-03c5e6e2-9bb3-40e4-a34b-ee5d71fe55af.gif" alt="giphy"" alt="giphy"/></p>
 <h1 align="center">Hi 👋, I'm Teke!!</h1>
 <h3 align="center">I am a front-end remote web developer who combines the art of design with the art of programming by translating UI/UX design wireframes to code.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=teke85&label=Profile%20views&color=0e75b6&style=flat" alt="teke85" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=teke85&label=Profile%20views&color=0e75b6&style=flat" alt="teke85" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teke85" alt="teke85" /></a> </p>
 
